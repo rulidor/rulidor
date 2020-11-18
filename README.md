@@ -17,7 +17,7 @@
 ### Skills and Languages:
 
 
-<img align="left" alt="JAVA" width="20px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/java.png?raw=true" />
+<img align="left" alt="JAVA" width="18px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/java.png?raw=true" />
 <img align="left" alt="PYTHON" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/python.jpg" />
 <img align="left" alt="CSHARP" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/cSharp.png" />
 <img align="left" alt="C" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/c.png?raw=true" />
