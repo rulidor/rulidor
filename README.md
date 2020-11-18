@@ -20,12 +20,12 @@
 <img align="left" alt="JAVA" width="18px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/java.png?raw=true" />
 <img align="left" alt="PYTHON" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/python.jpg" />
 <img align="left" alt="CSHARP" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/cSharp.png" />
-<img align="left" alt="C" width="30px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/c.png?raw=true" />
+<img align="left" alt="C" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/c.png?raw=true" />
 <img align="left" alt="C++" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/cpp.png" />
 <img align="left" alt="ASSEMBLY" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/assembly.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/sql.jpeg" />
-<img align="left" alt="GIT" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/git.png" />
-<img align="left" alt="LINUX" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/linux.jpg" />
+<img align="left" alt="SQL" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/sql.jpeg" />
+<img align="left" alt="GIT" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/git.png" />
+<img align="left" alt="LINUX" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/linux.jpg" />
 
 
 
