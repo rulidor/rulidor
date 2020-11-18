@@ -6,7 +6,7 @@
 ## I'm a Software Engineering Student at Ben Gurion University.
 
 - 🔭 Currently working on new programming projects.
-- 🌱 I’m currently learning React and building mobile apps.
+- 🌱 In free time, learning React and building mobile apps.
 - 👯 Always looking forward to enrich my programming and technical knowledge. 
 
 ### Talk with me:
