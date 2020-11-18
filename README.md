@@ -24,7 +24,7 @@
 <img align="left" alt="C++" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/cpp.png" />
 <img align="left" alt="ASSEMBLY" width="26px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/assembly.png" />
 <img align="left" alt="SQL" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/sql.jpeg" />
-<img align="left" alt="GIT" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/git.png" />
+<img align="center" alt="GIT" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/git.png" />
 <img align="left" alt="LINUX" width="35px" src="https://github.com/rulidor/rulidor/blob/main/skills%20and%20languages/linux.jpg" />
 
 
