@@ -1,6 +1,6 @@
 ### Hello, I'm Lidor 👋
 
-<img align="right" alt="GIF" src="https://github.com/rulidor/rulidor/blob/main/SUV4.gif?raw=true" width="465" height="320" />
+<img align="right" alt="GIF" src="https://github.com/rulidor/rulidor/blob/main/SUV4.gif?raw=true" width="460" height="320" />
 
 
 ## Software Engineering Student at Ben Gurion University.
