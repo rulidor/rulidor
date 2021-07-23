@@ -6,8 +6,8 @@
 ## Software Engineering Student at Ben Gurion University.
 
 - 🔭 Currently working on new programming projects.
-- 🌱 In free time, learning React and mobile apps building.
-- 👯 Always looking forward to enrich my programming and technical knowledge. 
+- 🌱 In free time, learning mobile apps building.
+- 👯 Always looking forward to enrich my programming and technical knowledge! 
 
 ### Talk with me:
 [<img align="left" alt="rulidor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
