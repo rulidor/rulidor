@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/rulidor/rulidor/blob/main/SUV4.gif?raw=true" width="450" height="295" />
 
 
-## BLE Software Engineer.
+## Software Engineer
 
 ### Talk with me:
 [<img align="left" alt="rulidor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
